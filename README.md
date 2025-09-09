@@ -37,7 +37,7 @@ Passionate about *building scalable software, solving complex problems, and cont
 
 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Ann_To_Neey01  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Ann_To_Neey01) 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yourusername)  
 
 🎯 Goals for 2025  
